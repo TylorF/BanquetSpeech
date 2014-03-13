@@ -9,28 +9,28 @@
 ##Thanks
 * (Ryan) We would like to extend our thanks to professors who have spent so much time teaching us bright eyed, innocent and enthusiastic young adults before releasing us into the cold harsh wilderness of the workforce.
 * Craig
-** (Tylor)First we want to give a big thank you to Craig Gelowitz for being the biggest force of change that this discipline has seen in a long time. He’s been working his butt off to keep the program relevant to where software is really going instead of leaving it behind in the 80s. But remember kids, if you take a class with Craig, make sure you memorize your lists! 
-** (Ryan?)You were right when you wrote all the dollar signs in class for microsoft, since we all know open source doesn’t make money, but because of your enthusiasm and encouragement when promoting FOSS software, we open sourced this speech on github just for you
-** (Tylor) check it out at github.com/tylorf!
+    * (Tylor)First we want to give a big thank you to Craig Gelowitz for being the biggest force of change that this discipline has seen in a long time. He’s been working his butt off to keep the program relevant to where software is really going instead of leaving it behind in the 80s. But remember kids, if you take a class with Craig, make sure you memorize your lists! 
+    * (Ryan?)You were right when you wrote all the dollar signs in class for microsoft, since we all know open source doesn’t make money, but because of your enthusiasm and encouragement when promoting FOSS software, we open sourced this speech on github just for you
+    * (Tylor) check it out at github.com/tylorf!
 * Trevor
-** (Ryan) We would also like to thank Trevor Douglas for all his hard work teaching us our software labs. We would also like to thank him for going on sabbatical during our final year, leaving us with abandonment issues and years of therapy. We know you deserve a break Trevor, but those guys a year behind us probably deserve to be living in the danger zone more than us.
+    * (Ryan) We would also like to thank Trevor Douglas for all his hard work teaching us our software labs. We would also like to thank him for going on sabbatical during our final year, leaving us with abandonment issues and years of therapy. We know you deserve a break Trevor, but those guys a year behind us probably deserve to be living in the danger zone more than us.
 * El-Dareiby
-** (Tylor)We’d like to thank Mohamed El-Darieby who always tries to keep people engaged and keep the class interested through somewhat questionable, but hilarious, comics.
+    * (Tylor)We’d like to thank Mohamed El-Darieby who always tries to keep people engaged and keep the class interested through somewhat questionable, but hilarious, comics.
 * Morgan
-** (Tylor) Next, we’d like to thank Yasser Morgan. He always does his very best to make sure that everyone understands the concepts he’s teaching, even if he has to individually ask every person in the class to do it.
+    * (Tylor) Next, we’d like to thank Yasser Morgan. He always does his very best to make sure that everyone understands the concepts he’s teaching, even if he has to individually ask every person in the class to do it.
 * Chan
-** (ryan) Thanks to Christine Chan, a very kind, and an excellent educator. We wish we had the opportunity to take more of your classes during our studies.
+    * (ryan) Thanks to Christine Chan, a very kind, and an excellent educator. We wish we had the opportunity to take more of your classes during our studies.
 * Abdul
-** (Ryan) Thanks to Abdul Bias, a great teacher and another professor we would have loved to have seen more often.
+    * (Ryan) Thanks to Abdul Bias, a great teacher and another professor we would have loved to have seen more often.
 * Karim
-** (Ryan) And finally thanks to Karim Naqvi, someone who alwyas tries to bring realistic elements into his teaching.
+    * (Ryan) And finally thanks to Karim Naqvi, someone who alwyas tries to bring realistic elements into his teaching.
 
 * (Tylor) We would also like to extend our thanks to the electronics faculty, who taught us our many electronic courses, and a couple special shout outs to some of the people who helped us the most.
 *David Wirth
-** (Tylor) We’d like to thank David Wirth, an electronics lab instructor, for giving us our intro to electronics in a way all us software folk could understand and preparing us for what we’d have to “deal with” (air quotes)  when we got into Dave Duguid’s labs!
+    * (Tylor) We’d like to thank David Wirth, an electronics lab instructor, for giving us our intro to electronics in a way all us software folk could understand and preparing us for what we’d have to “deal with” (air quotes)  when we got into Dave Duguid’s labs!
 *Dave Duguid 
-** (Ryan) We’d now like to thank Dave Duguid, since we’d never understand how a microprocessor actually works without him. Still though, it’s hard not to wonder how much we would actually know if he didn’t spend most of the lab time laughing at us struggling.
-** (Tylor)One memorable Dave memory is when Conroy told me to model Karlee’s light up skirt for our electronics project class and Dave, pardon my impersonation it’s not my best, leans in and says something like “if ya tell ‘em it’s a kilt they can’t make fun of ya”
+    * (Ryan) We’d now like to thank Dave Duguid, since we’d never understand how a microprocessor actually works without him. Still though, it’s hard not to wonder how much we would actually know if he didn’t spend most of the lab time laughing at us struggling.
+    * (Tylor)One memorable Dave memory is when Conroy told me to model Karlee’s light up skirt for our electronics project class and Dave, pardon my impersonation it’s not my best, leans in and says something like “if ya tell ‘em it’s a kilt they can’t make fun of ya”
 
 * (Ryan) Additional thanks to the rest of the engineering faculty, as well as the office staff who done a great job supporting us through our many years here.
 

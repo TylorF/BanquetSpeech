@@ -39,7 +39,7 @@
 ##What Happened
 * (Tylor) Throughout our time here we've seen a number of changes in the program that we’re so happy Craig has helped to push forward. He’s turning it into a software engineering program instead of a software focused electronics engineering program. 
 * (Ryan) We’re especially glad about the removal of Physics 201 as a required course. The justification may be that it wasn't relevant to us, but with a 50% fail rate we think you just wanted most of us to actually graduate someday.
-* (Ryan) girls joke - this is a joke about how our class is 50% women. im trying to make it not remotely sexist or make it sound like i’m a pervy weirdo. It’s harder than you’d think. Please understand.
+* (Ryan) This has also been one of the largest graduating years of software engineering ever at the U of R. Not only that, but our class is is almost half women, which is pretty amazing for an engineering discipline. I still don't have a joke.
 * (Tylor) Also, thanks to the department for giving us the App Lab. Having access to a quiet place that we can work has been a real blessing while working on our projects and other assignments. Not to mention those PC’s make for pretty good gaming computers, not that we would ever use them for something like that.
 
 ##Good luck
